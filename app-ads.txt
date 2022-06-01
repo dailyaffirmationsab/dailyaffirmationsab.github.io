@@ -1,2 +1,2 @@
 facebook.com, 1337292820097020, RESELLER, c3e20eee3f780d68
-google.com, pub-7254468628799119, DIRECT, f08c47fec0942fa0npx
+google.com, pub-8862306715925349, DIRECT, f08c47fec0942fa0
